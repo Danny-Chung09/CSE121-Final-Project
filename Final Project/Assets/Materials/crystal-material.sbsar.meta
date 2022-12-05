@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 04f989e9713164642b8de70e245d5c91
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: dda12f74ff9116a42b23482252b2c482, type: 3}
+  _instancesCopy:
+  - {fileID: 11400000, guid: 94cee493cb2108244a24a793630ef332, type: 2}
+  _fileAsset: {instanceID: 0}
+  _assetPath: Assets/Materials/crystal-material.sbsar
