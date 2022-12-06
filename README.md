@@ -1,6 +1,6 @@
 # Danny Chung and Sean Lee
 # CSE121 Final Project
-
+This is our final project for CMPM 121. We decided to do a Rube Goldberg Machine and is set in a living room. 
 # Assets Used
 - Cannon - https://www.turbosquid.com/3d-models/cannon-marine-battles-3ds/395740
 - Wood Texture - https://assetstore.unity.com/packages/2d/textures-materials/wood/stylized-wood-textures-213607
