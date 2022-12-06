@@ -16,3 +16,4 @@
 - Power Strip - https://www.turbosquid.com/3d-models/3d-power-strip-1562183
 - Marble Texture - https://substance3d.adobe.com/community-assets/assets/fa6a8fc478ebdf8843abbf91a7d65486094a61d8
 - Chandelier - https://www.turbosquid.com/3d-models/3d-denis-400-1779070
+- Skybox - https://github.com/alexismorin/Simple-Unity-Sky
